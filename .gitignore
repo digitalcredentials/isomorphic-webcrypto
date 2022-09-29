@@ -1,6 +1,6 @@
 .DS_Store
 webcrypto-shim.mjs
-webcrypto-liner.js
+# TODO remove to install package from git repo webcrypto-liner.js
 tmp
 
 # Logs
