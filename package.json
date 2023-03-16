@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/kevlened/isomorphic-webcrypto#readme",
   "dependencies": {
-    "@microsoft/msrcrypto": "git+https://git@github.com/digitalcredentials/MSR-JavaScript-Crypto.git#unforce-deps",
+    "@microsoft/msrcrypto": "https://github.com/microsoft/MSR-JavaScript-Crypto",
     "@peculiar/webcrypto": "^1.0.22",
     "asmcrypto.js": "^0.22.0",
     "b64-lite": "^1.3.1",
